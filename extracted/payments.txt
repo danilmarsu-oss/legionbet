@@ -1,0 +1,158 @@
+<!-- Meta Title -->
+<title>Banking & Payments | LegionBet Casino – Fast, Free, and Secure Transactions</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Discover all deposit and withdrawal methods at LegionBet Casino. We support major cards, bank transfers, and cryptocurrencies — all free of charge and processed securely." />
+
+<!-- Page Content -->
+<main class="banking-page">
+
+  <section class="banking-intro">
+    <h1>LegionBet Casino Banking: Simple, Secure, and Fee-Free</h1>
+    <p>
+      We've built our payment infrastructure around a straightforward principle: getting money in and out of your account should be the easiest part of your experience with us. At <strong>LegionBet</strong>, we charge no fees on any deposit or withdrawal, and we support a wide range of payment methods to make sure UK players aren't restricted to a single option. Whether you prefer the familiarity of a debit card, the speed of an e-wallet, the flexibility of a bank transfer, or the privacy and efficiency of cryptocurrency, our platform has you covered.
+    </p>
+    <p>
+      Every transaction on our platform is processed through encrypted, secure channels. Your financial data is never stored unnecessarily, and our payment systems are monitored continuously to detect and prevent any unauthorised activity. Banking at <strong>Casino LegionBet</strong> is designed to give you full confidence every time you transact.
+    </p>
+  </section>
+
+  <section class="banking-deposits">
+    <h2>Deposit Methods at Legion Bet</h2>
+    <p>
+      All deposits on our platform are processed instantly and free of charge. There are no hidden fees on our end — though we always recommend checking with your bank or payment provider in case they apply their own charges for certain transaction types. Here is a full overview of our currently supported deposit methods:
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Method</th>
+          <th>Type</th>
+          <th>Fee</th>
+          <th>Processing Time</th>
+          <th>Minimum Deposit</th>
+          <th>Maximum Deposit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Visa</td>
+          <td>Credit / Debit Card</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>£20</td>
+          <td>£15,000</td>
+        </tr>
+        <tr>
+          <td>Mastercard</td>
+          <td>Credit / Debit Card</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>£20</td>
+          <td>£5,000</td>
+        </tr>
+        <tr>
+          <td>Bank Transfer</td>
+          <td>Online Bank Transfer</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>£20</td>
+          <td>£5,000</td>
+        </tr>
+        <tr>
+          <td>Bitcoin (BTC)</td>
+          <td>Cryptocurrency</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>0.0001 BTC</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Ethereum (ETH)</td>
+          <td>Cryptocurrency</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>0.01 ETH</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Litecoin (LTC)</td>
+          <td>Cryptocurrency</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>0.01 LTC</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Dogecoin (DOGE)</td>
+          <td>Cryptocurrency</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>1 DOGE</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>USDT (Tether)</td>
+          <td>Cryptocurrency</td>
+          <td>Free</td>
+          <td>Instant</td>
+          <td>5 USDT</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      All deposits are credited to your account immediately, so there's no waiting around before you can start playing. If a deposit doesn't appear in your account within a few minutes, we recommend checking your payment provider's records first — and if the issue persists, our support team is available around the clock to investigate.
+    </p>
+  </section>
+
+  <section class="banking-withdrawals">
+    <h2>Withdrawals</h2>
+    <p>
+      We process withdrawals as quickly as our payment partners allow, and we charge no fees on our end for any withdrawal method. Before your first withdrawal can be processed, your account must pass our KYC verification — this is a regulatory requirement designed to protect your funds and confirm that withdrawals are authorised by the genuine account holder. Once verified, the process is smooth and straightforward.
+    </p>
+    <p>
+      Cryptocurrency withdrawals are typically the fastest option, often completing within minutes once approved. Card and bank transfer withdrawals may take longer depending on your financial institution's own processing times. Our VIP Club members benefit from priority withdrawal handling, meaning their requests are moved to the front of the queue. We support the same range of methods for withdrawals as we do for deposits, ensuring you can always use the same channel in both directions.
+    </p>
+  </section>
+
+  <section class="banking-crypto">
+    <h2>Cryptocurrency Banking at LegionBet Casino</h2>
+    <p>
+      Our crypto payment offering is one of the strongest aspects of our banking suite. We currently support Bitcoin, Ethereum, Litecoin, Dogecoin, and USDT — covering the most widely used digital currencies among online casino players. Crypto deposits and withdrawals at <strong>LegionBet</strong> are processed with no fees on our end, and the decentralised nature of blockchain transactions means they're typically among the fastest options available.
+    </p>
+    <p>
+      For players who prioritise financial privacy or who prefer to keep their gambling activity separate from their traditional banking, cryptocurrency provides an excellent solution. Our platform handles all conversions and crediting automatically — you simply send from your wallet, and the funds appear in your account ready to play.
+    </p>
+  </section>
+
+  <section class="banking-security">
+    <h2>Payment Security</h2>
+    <p>
+      Every transaction processed through our platform is protected by 256-bit SSL encryption. We do not store full card details on our servers, and all sensitive payment data is handled in compliance with applicable data protection standards. Our payment systems are monitored continuously, and any unusual transaction activity triggers an automatic review to protect your account from unauthorised use.
+    </p>
+    <p>
+      We also require that the payment method you use belongs to you personally. We do not accept payments made on behalf of another individual, and any funds deposited from a third-party account may be returned and the transaction flagged for further review. This policy exists to protect our players as much as it protects our platform.
+    </p>
+  </section>
+
+  <section class="banking-faq">
+    <h2>Common Banking Questions</h2>
+
+    <h3>Is there a minimum withdrawal amount?</h3>
+    <p>
+      Yes, minimum withdrawal thresholds apply and vary by payment method. The details for your chosen method are displayed at the point of withdrawal within your account. In most cases, the minimum mirrors the deposit threshold for the same method.
+    </p>
+
+    <h3>Why is my withdrawal being delayed?</h3>
+    <p>
+      The most common reason for a withdrawal delay is incomplete KYC verification. If your account is fully verified and the delay persists beyond the expected timeframe for your chosen method, please contact our support team via live chat or at <a href="mailto:support@legion-bet.me.uk">support@legion-bet.me.uk</a> and we'll investigate immediately.
+    </p>
+
+    <h3>Can I change my payment method between deposits and withdrawals?</h3>
+    <p>
+      In most cases, we ask that withdrawals are processed to the same method used for your deposit. This is a standard anti-money laundering requirement. If your original deposit method doesn't support withdrawals, our team will work with you to find a suitable alternative that meets our compliance requirements.
+    </p>
+  </section>
+
+</main>
+

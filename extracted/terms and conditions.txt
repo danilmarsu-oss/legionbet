@@ -1,0 +1,121 @@
+<!-- Meta Title -->
+<title>Terms and Conditions | LegionBet Casino – Know the Rules Before You Play</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Read the full Terms and Conditions for LegionBet Casino. Understand your rights, our responsibilities, and the rules that govern your account and gameplay on our platform." />
+
+<!-- Page Content -->
+<main class="terms-page">
+
+  <section class="terms-intro">
+    <h1>LegionBet Casino Terms and Conditions</h1>
+    <p>
+      Before you create an account or place a single bet on our platform, we want to make sure you understand exactly what you're agreeing to. At <strong>LegionBet</strong>, we believe that clear, honest terms are the foundation of a trustworthy relationship between a casino and its players. The following Terms and Conditions govern your use of our website, your account, all games and services available through our platform, and any promotions or bonuses we offer. Please read them carefully. By registering an account with us, you confirm that you have read, understood, and agreed to everything set out below.
+    </p>
+    <p>
+      These terms are intended to protect both you and us. If anything is unclear, our support team is available around the clock to answer your questions — reach us via live chat or at <a href="mailto:support@legion-bet.me.uk">support@legion-bet.me.uk</a> before proceeding.
+    </p>
+  </section>
+
+  <section class="terms-general">
+    <h2>1. General Terms</h2>
+    <p>
+      <strong>Casino LegionBet</strong> is operated by Gravity Unleashed B.V. By accessing or using any part of our platform, you enter into a legally binding agreement with us under these Terms and Conditions. We reserve the right to update or amend these terms at any time. When we do, the revised version will be published on this page with the updated effective date. It is your responsibility to review these terms periodically. Continued use of our platform following any amendments constitutes your acceptance of the updated terms.
+    </p>
+    <p>
+      These Terms and Conditions apply to all users of our website, regardless of how they access it — whether via desktop browser, mobile browser, or our progressive web application.
+    </p>
+  </section>
+
+  <section class="terms-eligibility">
+    <h2>2. Eligibility and Account Registration</h2>
+    <p>
+      To register and maintain an account with us, you must meet the following requirements at all times:
+    </p>
+    <ul>
+      <li>You must be at least 18 years of age. We operate a strict zero-tolerance policy on underage gambling and reserve the right to request proof of age at any point.</li>
+      <li>You must be a natural person and not acting on behalf of a third party.</li>
+      <li>You must not be a resident of any jurisdiction where online gambling is prohibited by law. It is your sole responsibility to ensure that gambling online is legal in your country or region of residence.</li>
+      <li>You must not currently be subject to a self-exclusion agreement with us or any affiliated platform.</li>
+      <li>You may hold only one account on our platform. Duplicate accounts will be closed, and any balances or bonuses associated with them may be forfeited.</li>
+    </ul>
+    <p>
+      When registering, you are required to provide accurate and truthful personal information. Any attempt to register using false details, stolen identities, or misleading information will result in immediate account closure and may be reported to the relevant authorities.
+    </p>
+  </section>
+
+  <section class="terms-kyc">
+    <h2>3. Identity Verification (KYC)</h2>
+    <p>
+      We are required to verify the identity of all players before processing their first withdrawal. Our Know Your Customer process requires you to submit valid proof of identity — such as a passport or driving licence — and proof of address, such as a recent utility bill or bank statement dated within the last three months. We may also request proof of payment method ownership where necessary.
+    </p>
+    <p>
+      We aim to process all KYC submissions promptly. However, incomplete or unclear documentation may cause delays, and we are not liable for any withdrawal delays that result from a player's failure to provide the required documentation in a timely and accurate manner. Until verification is complete, withdrawal requests will remain on hold.
+    </p>
+  </section>
+
+  <section class="terms-deposits-withdrawals">
+    <h2>4. Deposits and Withdrawals</h2>
+    <p>
+      We support a range of payment methods including major debit cards, e-wallets, bank transfers, and select cryptocurrencies. All deposits are processed in real time or as close to it as the payment method permits. Minimum and maximum deposit limits vary by method and are displayed at the point of transaction.
+    </p>
+    <p>
+      Withdrawals are processed once your KYC verification is complete and your account is in good standing. Processing times vary by payment method — cryptocurrency and e-wallet withdrawals are typically the fastest, while bank transfers may take longer depending on your financial institution. We do not charge withdrawal fees on our end, though your payment provider may apply their own charges.
+    </p>
+    <p>
+      We reserve the right to carry out additional security checks on withdrawals above certain thresholds. In cases where fraudulent activity is suspected, we may place a temporary hold on a withdrawal while we investigate. We will always communicate transparently with you throughout this process.
+    </p>
+  </section>
+
+  <section class="terms-bonuses">
+    <h2>5. Bonuses and Promotions</h2>
+    <p>
+      All bonuses and promotional offers made available on <strong>Legion Bet</strong> are subject to their own specific terms and conditions, including wagering requirements, eligible games, minimum deposit thresholds, and expiry dates. These are clearly stated on each individual promotion page and must be read in conjunction with these general terms.
+    </p>
+    <p>
+      We reserve the right to withdraw, modify, or cancel any promotion at any time without prior notice. Bonuses are intended for personal, recreational use only. Any attempt to exploit bonus offers through coordinated play, multiple accounts, or other forms of abuse will result in the cancellation of the bonus and may result in account closure.
+    </p>
+    <p>
+      Unless explicitly stated otherwise, bonuses must be used before withdrawing any associated winnings. Free spin winnings may be subject to a maximum cashout limit, which will be detailed in the specific promotion terms.
+    </p>
+  </section>
+
+  <section class="terms-responsible-gambling">
+    <h2>6. Responsible Gambling</h2>
+    <p>
+      We are committed to promoting responsible gambling across our entire platform. We provide a full set of player protection tools, including deposit limits, loss limits, wager limits, session time reminders, cooling-off periods, and self-exclusion. These tools are accessible at any time from your account settings, and our support team can assist you in activating them immediately upon request.
+    </p>
+    <p>
+      If you feel that gambling is negatively affecting your life or the lives of those around you, we urge you to make use of these tools and to seek support from an independent organisation. Self-exclusion requests are processed promptly and without question. Once a self-exclusion is active, we will take all reasonable steps to ensure you are not contacted with promotional material for the duration of your exclusion period.
+    </p>
+  </section>
+
+  <section class="terms-account-closure">
+    <h2>7. Account Suspension and Closure</h2>
+    <p>
+      We reserve the right to suspend or permanently close any account where we have reasonable grounds to believe that these Terms and Conditions have been violated. This includes, but is not limited to, cases of fraudulent activity, identity misrepresentation, bonus abuse, collusion, or any other conduct that we determine to be harmful to the integrity of our platform or other players.
+    </p>
+    <p>
+      Where an account is closed due to a violation, we reserve the right to withhold any remaining balance pending investigation. In cases where no violation is found, any legitimate funds will be returned in full. Players wishing to close their account voluntarily may do so at any time by contacting our support team.
+    </p>
+  </section>
+
+  <section class="terms-liability">
+    <h2>8. Limitation of Liability</h2>
+    <p>
+      While we take every measure to ensure our platform runs reliably and without interruption, we cannot guarantee that our services will be available at all times. We accept no liability for losses arising from platform downtime, technical failures, or interruptions beyond our reasonable control. We also accept no responsibility for any third-party payment processing delays or failures.
+    </p>
+    <p>
+      Nothing in these terms limits our liability for fraud, death, or personal injury caused by our negligence, or any other liability that cannot be excluded under applicable law.
+    </p>
+  </section>
+
+  <section class="terms-contact">
+    <h2>9. Contact and Complaints</h2>
+    <p>
+      If you have a complaint or dispute relating to any aspect of your experience at <strong>LegionBet Casino</strong>, we encourage you to contact our support team in the first instance via live chat or by emailing us at <a href="mailto:support@legion-bet.me.uk">support@legion-bet.me.uk</a>. We are committed to resolving all complaints fairly and as quickly as possible. We will acknowledge your complaint promptly and provide a full response within a reasonable timeframe. If you remain unsatisfied with our resolution, you may escalate your complaint to the relevant regulatory authority.
+    </p>
+  </section>
+
+</main>
+

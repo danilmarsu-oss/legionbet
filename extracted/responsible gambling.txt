@@ -1,0 +1,137 @@
+<!-- Meta Title -->
+<title>Responsible Gambling | LegionBet Casino – Play Safe, Stay in Control</title>
+
+<!-- Meta Description -->
+<meta name="description" content="LegionBet Casino is committed to responsible gambling. Explore our player protection tools, self-exclusion options, and support resources to help you stay in control of your gaming." />
+
+<!-- Page Content -->
+<main class="responsible-gambling-page">
+
+  <section class="rg-intro">
+    <h1>Responsible Gambling at LegionBet Casino</h1>
+    <p>
+      At <strong>LegionBet</strong>, we believe that gambling should be an enjoyable form of entertainment — nothing more, nothing less. For the vast majority of our players, it is exactly that: a fun, voluntary activity they engage with on their own terms. But we also understand that for some people, gambling can become something more difficult to manage, and we take that reality seriously. Our commitment to responsible gambling isn't a box we tick to satisfy a regulator — it's a genuine part of how we operate and how we think about our relationship with every player on our platform.
+    </p>
+    <p>
+      This page outlines the tools we provide, the signs to watch for, the support available, and the steps you can take if you ever feel that your gambling is no longer something you're fully in control of. We encourage every player — not just those experiencing difficulties — to read it.
+    </p>
+  </section>
+
+  <section class="rg-what-is">
+    <h2>What Is Responsible Gambling?</h2>
+    <p>
+      Responsible gambling means engaging with casino games and sports betting in a way that is informed, intentional, and within your personal means. It means setting limits before you play, understanding that losses are a normal part of gambling, and never chasing money you've already lost. It means knowing when to take a break and recognising when the fun has started to fade.
+    </p>
+    <p>
+      Gambling becomes problematic when it stops being a choice and starts feeling like a compulsion — when sessions run longer than intended, when the amounts being wagered exceed what you're comfortable losing, or when gambling starts to affect your mood, your relationships, or your finances. These are the signals that something needs to change, and recognising them early makes a meaningful difference.
+    </p>
+    <p>
+      At <strong>Casino LegionBet</strong>, we've built our platform with these realities in mind. Every tool described on this page is available to all players, at any time, without judgement.
+    </p>
+  </section>
+
+  <section class="rg-signs">
+    <h2>Recognising the Warning Signs</h2>
+    <p>
+      Problem gambling doesn't always look the same from person to person, but there are common patterns worth being aware of. We encourage our players to honestly reflect on the following questions from time to time:
+    </p>
+    <ul>
+      <li>Do you find yourself spending more time or money gambling than you originally planned?</li>
+      <li>Have you tried to cut back on gambling but found it difficult to follow through?</li>
+      <li>Do you gamble to escape stress, anxiety, or low mood rather than for entertainment?</li>
+      <li>Have you chased losses by placing larger bets to try to recover money you've already lost?</li>
+      <li>Has gambling affected your ability to meet financial commitments such as rent, bills, or everyday expenses?</li>
+      <li>Have people close to you expressed concern about how much you gamble?</li>
+      <li>Do you feel restless, irritable, or anxious when you try to reduce or stop gambling?</li>
+      <li>Have you borrowed money or sold possessions in order to fund gambling sessions?</li>
+    </ul>
+    <p>
+      If you recognise yourself in any of the above, it doesn't mean you have a serious problem — but it does mean it's worth paying closer attention to your habits and, if necessary, taking action before things escalate. Our tools are here precisely for moments like these.
+    </p>
+  </section>
+
+  <section class="rg-tools">
+    <h2>Our Responsible Gambling Tools</h2>
+    <p>
+      We provide a comprehensive set of player protection tools that are accessible directly from your account dashboard at any time. You don't need to contact us to use them — they're built into the platform and ready to activate whenever you need them. Here's what we offer:
+    </p>
+
+    <h3>Deposit Limits</h3>
+    <p>
+      You can set a maximum deposit limit on a daily, weekly, or monthly basis. Once your limit is reached, no further deposits will be accepted until the period resets. Deposit limits can be decreased immediately, but increases take effect after a cooling-off period to ensure the decision is considered rather than impulsive. This is one of the most effective tools for keeping your spending within a budget you're comfortable with.
+    </p>
+
+    <h3>Loss Limits</h3>
+    <p>
+      A loss limit caps the total amount you can lose within a defined time period. Once the limit is hit, you won't be able to continue playing until the period renews. Like deposit limits, reductions take effect immediately while increases are subject to a delay. We recommend setting a loss limit that reflects the amount you're genuinely comfortable losing — not an aspirational figure that stretches your finances.
+    </p>
+
+    <h3>Wager Limits</h3>
+    <p>
+      For players who prefer to manage their activity at the individual bet level rather than by total spend, wager limits allow you to set a ceiling on the size of any single bet placed on our platform. This can be particularly useful for those who enjoy high-volatility games where single bets can escalate quickly.
+    </p>
+
+    <h3>Session Time Reminders</h3>
+    <p>
+      It's easy to lose track of time during a gaming session. Our session time reminders send you an alert after a set period of play, prompting you to take stock of how long you've been active. You decide the interval — whether that's 30 minutes, an hour, or longer. The reminder doesn't end your session automatically, but it gives you the nudge to make a conscious decision about whether to continue.
+    </p>
+
+    <h3>Cooling-Off Period</h3>
+    <p>
+      If you want to take a short break from gambling without committing to a full self-exclusion, a cooling-off period is the right tool. You can pause your account for a defined period — typically ranging from 24 hours to several weeks — during which time you won't be able to log in, deposit, or place bets. Your account and balance are preserved and available when the period ends.
+    </p>
+
+    <h3>Self-Exclusion</h3>
+    <p>
+      Self-exclusion is our most serious player protection measure and is intended for players who feel they need to step away from gambling entirely for a significant period. You can request self-exclusion for a minimum of six months, with longer periods available. Once active, your account will be closed, all marketing communications will stop, and we will take all reasonable steps to prevent you from opening a new account during the exclusion period.
+    </p>
+    <p>
+      Self-exclusion requests are processed immediately upon contact with our support team. You can reach us via live chat or by emailing <a href="mailto:support@legion-bet.me.uk">support@legion-bet.me.uk</a>. We will never question or delay a self-exclusion request — if you ask us to close your account, we will do it without hesitation.
+    </p>
+    <p>
+      We also strongly recommend that players who self-exclude register with <strong>GamStop</strong>, the UK's national self-exclusion scheme, which allows you to block access to all UKGC-licensed gambling sites in a single step. This provides an additional layer of protection beyond what we're able to enforce on our own platform.
+    </p>
+  </section>
+
+  <section class="rg-underage">
+    <h2>Protecting Younger People</h2>
+    <p>
+      We operate a strict minimum age policy of 18 years. We verify the age of all players as part of our KYC process and reserve the right to request proof of age at any point. Underage gambling is illegal, and we take our responsibility to prevent it seriously.
+    </p>
+    <p>
+      If you share a device with younger family members, we strongly recommend making use of parental control software to prevent access to gambling websites. Tools such as <strong>NetNanny</strong>, <strong>Gamban</strong>, and <strong>Cyberpatrol</strong> can be used to restrict access to gambling content across all devices in your home. We also recommend keeping your account credentials private and logging out fully after every session.
+    </p>
+  </section>
+
+  <section class="rg-support">
+    <h2>External Support and Resources</h2>
+    <p>
+      If you feel that gambling has become a problem — for you or for someone you care about — professional support is available and we encourage you to reach out. The following UK organisations offer confidential, non-judgemental help:
+    </p>
+    <ul>
+      <li><strong>GamCare:</strong> The UK's leading provider of support, advice, and counselling for people affected by gambling harm. Available via their national helpline and online chat service.</li>
+      <li><strong>GamStop:</strong> The free national self-exclusion scheme that lets you restrict your access to all UK-licensed gambling sites at once.</li>
+      <li><strong>Gamblers Anonymous UK:</strong> A peer support network of individuals who have experienced gambling problems and meet regularly to help each other recover.</li>
+      <li><strong>BeGambleAware:</strong> Provides information, resources, and referrals to treatment and support services across the UK.</li>
+      <li><strong>Gordon Moody:</strong> Offers residential treatment programmes and online therapy for people with serious gambling disorders.</li>
+    </ul>
+    <p>
+      Reaching out for help is not a sign of weakness — it takes real courage to acknowledge when something has become difficult to manage. Every one of the organisations above has supported thousands of people through exactly this situation, and they are well equipped to help you too.
+    </p>
+  </section>
+
+  <section class="rg-commitment">
+    <h2>Our Ongoing Commitment</h2>
+    <p>
+      Responsible gambling is not a one-time policy statement at <strong>Legion Bet</strong> — it's an ongoing commitment that shapes how we train our staff, design our platform, and respond to our players. Our support team receives regular training to help them identify signs of distress or problem gambling behaviour and to respond with care and appropriate signposting.
+    </p>
+    <p>
+      We do not target players who have shown signs of problem gambling with promotional offers. We monitor account activity for behavioural patterns associated with gambling harm, and we will proactively reach out to players where we have genuine cause for concern. We will always take a player's side when it comes to protecting their wellbeing — even when that means helping them step away from our platform entirely.
+    </p>
+    <p>
+      If you have any questions about our responsible gambling tools or policies, or if you'd simply like to talk to someone on our team about your options, please don't hesitate to contact us at any time via live chat or at <a href="mailto:support@legion-bet.me.uk">support@legion-bet.me.uk</a>. We are here to help — always.
+    </p>
+  </section>
+
+</main>
+
